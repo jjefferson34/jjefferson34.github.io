@@ -1,0 +1,26 @@
+body{
+  background-color: #98afc7;
+}
+
+body{
+  font-family: "Adobe Jenson", serif;
+  font-size: 25px;
+}
+
+img #hudrygurdyanantomy{
+  width: 250px;
+  height: 120px;
+  align: center;
+}
+
+img #fluteanatomy{
+  align: left;
+  width: 250px;
+  height: 120px;
+}
+ img #notechart{
+   align: right;
+   width: 250px;
+   height: 120px;
+
+ }
